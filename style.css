@@ -1,6 +1,45 @@
 html{
     background-color: #ffffff;
-}
-h1{
     color: #434343;
+}
+a{
+    text-decoration: none;
+    color: #434343;
+}
+ul{
+    list-style : none;
+}
+
+header{
+    height: 100px;
+    width:100%;
+}
+
+.logo-img{
+display: inline-block;
+vertical-align: middle;
+width: 100px;
+height:100px;
+}
+.logo{
+    display: inline-block;
+    height:100px;
+   
+}
+nav{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: 0;
+  
+    
+}
+.header-title{
+    display: inline-block;
+    font-size: 20px;
+}
+
+.header-nav li{
+  display: inline;  
+  text-align: right;
+  margin-right:15px;
 }
