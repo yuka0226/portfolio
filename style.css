@@ -28,8 +28,7 @@ height:100px;
 }
 nav{
     display: inline-block;
-    margin-left: auto;
-    margin-right: 0;
+   
   
     
 }
@@ -42,4 +41,18 @@ nav{
   display: inline;  
   text-align: right;
   margin-right:15px;
+}
+
+.main-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:250px;
+    height:250px;
+}
+
+.main-content p{
+    text-align: center;
+    margin: 0 out;
+
 }
