@@ -43,12 +43,17 @@ nav{
   margin-right:15px;
 }
 
+.main-page{
+    margin-top:100px;
+}
+
 .main-img{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width:250px;
     height:250px;
+    object-fit: cover;
 }
 
 .main-content p{
@@ -56,3 +61,95 @@ nav{
     margin: 0 out;
 
 }
+
+.main1-history{
+    display:inline-block;
+
+}
+
+.history1-img{
+    display: inline-block;
+    vertical-align: middle;
+    width:300px;
+    height:300px;
+    object-fit: cover;
+
+}
+
+main-history h2{
+    display:inline-block;
+   margin-left:40px;
+}
+
+.history1-text {
+    display:inline-block;
+    align-items: center; 
+    
+}
+
+  .history2-img{
+    display: inline-block;
+    vertical-align: middle;
+    width:300px;
+    height:300px;
+    object-fit: cover;
+  }
+  .history2-text{
+    display:inline-block;
+    align-items: center; 
+  }
+
+  .v_line_fix {
+    margin-left: 150px;
+    
+    width: 3px;
+    height: 150px;
+    background-color:#5dac81;
+
+  }
+  .history3-img{
+    display: inline-block;
+    vertical-align: middle;
+    width:300px;
+    height:300px;
+    object-fit: cover;
+  }
+  .history3-text{
+    display:inline-block;
+    align-items: center; 
+  }
+  .history4-img{
+    display: inline-block;
+    vertical-align: middle;
+    width:300px;
+    height:300px;
+    object-fit: cover;
+  }
+  .history4-text{
+    display:inline-block;
+    align-items: center; 
+  }
+
+  .history5-img{
+    display: inline-block;
+    vertical-align: middle;
+    width:300px;
+    height:300px;
+    object-fit: cover;
+  }
+  .history5-text{
+    display:inline-block;
+    align-items: center; 
+  }
+
+  .history6-img{
+    display: inline-block;
+    vertical-align: middle;
+    width:300px;
+    height:300px;
+    object-fit: cover;
+  }
+  .history6-text{
+    display:inline-block;
+    align-items: center; 
+  }
