@@ -1,6 +1,7 @@
 html{
     background-color: #ffffff;
     color: #434343;
+    font-family:arial;
 }
 a{
     text-decoration: none;
@@ -11,8 +12,15 @@ ul{
 }
 
 header{
+  
     height: 100px;
     width:100%;
+}
+.sc-li{
+  scroll-behavior: smooth;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 30px;
 }
 
 .logo-img{
@@ -27,6 +35,7 @@ height:100px;
    
 }
 nav{
+    scroll-behavior: smooth;
     display: inline-block;
    
   
@@ -76,10 +85,7 @@ nav{
 
 }
 
-main-history h2{
-    display:inline-block;
-   margin-left:40px;
-}
+
 
 .history1-text {
     display:inline-block;
